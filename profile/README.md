@@ -2,7 +2,7 @@
 
 ### The team of the children's technopark “Kvantorium” in Yekaterinburg.
 
-![Team](./Team.jpg)
+![Team](../Team.jpg)
 
 #### Team members:
 - Леонов Даниил (@U-1F34C)
@@ -15,4 +15,4 @@
 
 <br>
 
-![Timofey](./Timofey.jpg)
+![Timofey](../Timofey.jpg)
