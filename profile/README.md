@@ -1,17 +1,18 @@
 # Backspace
 
-### The team of the children's technopark “Kvantorium” in Yekaterinburg.
+### Команда детского технопарка "Кванториум" г. Екатеринбург, Ельцин Центр.
+
 
 ![Team](../Team.jpg)
 
-#### Team members:
+#### Состав:
 - Леонов Даниил (@U-1F34C)
 - Сазонов Александр (@AleksandreSazonov2)
 - Светличный Артем (@artemlova)
 - Тотьмянина Василиса
 - Левина Софья
 
-### We are students of the project module. We create projects, participate in competitions and Olympiads, and just chill.
+### Мы учащиеся проектного модуля! Создаем проекты, учавствуем в соревнованиях/олимпиадах и просто чилим.
 
 <br>
 
